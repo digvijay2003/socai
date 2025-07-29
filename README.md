@@ -32,3 +32,7 @@ This project leverages a modern and robust technology stack:
 * **JWT (JSON Web Tokens):** For secure user authentication and authorization.
 * **Bcrypt:** For secure password hashing.
 * **AI/ML Libraries:** (Specify if you're using specific ones like TensorFlow, PyTorch, Hugging Face Transformers, OpenCV, etc., e.g., "Hugging Face Transformers for text-to-image/video generation")
+
+## Frontend Repo
+* **LINK:** https://github.com/Digvijay-Projects/socAI-frontend
+* **Vercel:** https://soc-ai-frontend.vercel.app/
